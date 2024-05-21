@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求三角形的面积1", "求三角形的面积\求三角形的面积.vcxproj", "{DB5434FD-9C61-4AA9-A6AA-48FE507A67F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求三角形的面积2", "求三角形的面积2\求三角形的面积2.vcxproj", "{1534C965-AB88-4C4B-961F-0EA10DAF6ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5434FD-9C61-4AA9-A6AA-48FE507A67F3}.Debug|x64.ActiveCfg = Debug|x64
+		{DB5434FD-9C61-4AA9-A6AA-48FE507A67F3}.Debug|x64.Build.0 = Debug|x64
+		{DB5434FD-9C61-4AA9-A6AA-48FE507A67F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB5434FD-9C61-4AA9-A6AA-48FE507A67F3}.Debug|x86.Build.0 = Debug|Win32
+		{DB5434FD-9C61-4AA9-A6AA-48FE507A67F3}.Release|x64.ActiveCfg = Release|x64
+		{DB5434FD-9C61-4AA9-A6AA-48FE507A67F3}.Release|x64.Build.0 = Release|x64
+		{DB5434FD-9C61-4AA9-A6AA-48FE507A67F3}.Release|x86.ActiveCfg = Release|Win32
+		{DB5434FD-9C61-4AA9-A6AA-48FE507A67F3}.Release|x86.Build.0 = Release|Win32
+		{1534C965-AB88-4C4B-961F-0EA10DAF6ABD}.Debug|x64.ActiveCfg = Debug|x64
+		{1534C965-AB88-4C4B-961F-0EA10DAF6ABD}.Debug|x64.Build.0 = Debug|x64
+		{1534C965-AB88-4C4B-961F-0EA10DAF6ABD}.Debug|x86.ActiveCfg = Debug|Win32
+		{1534C965-AB88-4C4B-961F-0EA10DAF6ABD}.Debug|x86.Build.0 = Debug|Win32
+		{1534C965-AB88-4C4B-961F-0EA10DAF6ABD}.Release|x64.ActiveCfg = Release|x64
+		{1534C965-AB88-4C4B-961F-0EA10DAF6ABD}.Release|x64.Build.0 = Release|x64
+		{1534C965-AB88-4C4B-961F-0EA10DAF6ABD}.Release|x86.ActiveCfg = Release|Win32
+		{1534C965-AB88-4C4B-961F-0EA10DAF6ABD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32CAEBF7-9D25-452B-85EE-5D55E9D4A739}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "作业1", "..\作业2.3\作业2.3.vcxproj", "{0AD4795B-1500-4334-BB67-81A875F853DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "分解数字", "..\作业上交\分解数字\分解数字.vcxproj", "{E185C397-3D2E-4778-A714-F8885E91CCC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD4795B-1500-4334-BB67-81A875F853DF}.Debug|x64.ActiveCfg = Debug|x64
+		{0AD4795B-1500-4334-BB67-81A875F853DF}.Debug|x64.Build.0 = Debug|x64
+		{0AD4795B-1500-4334-BB67-81A875F853DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AD4795B-1500-4334-BB67-81A875F853DF}.Debug|x86.Build.0 = Debug|Win32
+		{0AD4795B-1500-4334-BB67-81A875F853DF}.Release|x64.ActiveCfg = Release|x64
+		{0AD4795B-1500-4334-BB67-81A875F853DF}.Release|x64.Build.0 = Release|x64
+		{0AD4795B-1500-4334-BB67-81A875F853DF}.Release|x86.ActiveCfg = Release|Win32
+		{0AD4795B-1500-4334-BB67-81A875F853DF}.Release|x86.Build.0 = Release|Win32
+		{E185C397-3D2E-4778-A714-F8885E91CCC6}.Debug|x64.ActiveCfg = Debug|x64
+		{E185C397-3D2E-4778-A714-F8885E91CCC6}.Debug|x64.Build.0 = Debug|x64
+		{E185C397-3D2E-4778-A714-F8885E91CCC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{E185C397-3D2E-4778-A714-F8885E91CCC6}.Debug|x86.Build.0 = Debug|Win32
+		{E185C397-3D2E-4778-A714-F8885E91CCC6}.Release|x64.ActiveCfg = Release|x64
+		{E185C397-3D2E-4778-A714-F8885E91CCC6}.Release|x64.Build.0 = Release|x64
+		{E185C397-3D2E-4778-A714-F8885E91CCC6}.Release|x86.ActiveCfg = Release|Win32
+		{E185C397-3D2E-4778-A714-F8885E91CCC6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A81D0EC-C629-4C93-BAED-376AF0B94CEE}
+	EndGlobalSection
+EndGlobal

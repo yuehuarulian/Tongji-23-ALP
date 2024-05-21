@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "整数正序分解.c", "整数正序分解.c\整数正序分解.c.vcxproj", "{CCDB502F-E2B2-44AB-A6AE-6DCFCED61D0A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "整数逆序分解.cpp", "整数逆序分解.cpp\整数逆序分解.cpp.vcxproj", "{B0F1DC29-72E9-47B1-BCB6-E102F4D0D535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDB502F-E2B2-44AB-A6AE-6DCFCED61D0A}.Debug|x64.ActiveCfg = Debug|x64
+		{CCDB502F-E2B2-44AB-A6AE-6DCFCED61D0A}.Debug|x64.Build.0 = Debug|x64
+		{CCDB502F-E2B2-44AB-A6AE-6DCFCED61D0A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCDB502F-E2B2-44AB-A6AE-6DCFCED61D0A}.Debug|x86.Build.0 = Debug|Win32
+		{CCDB502F-E2B2-44AB-A6AE-6DCFCED61D0A}.Release|x64.ActiveCfg = Release|x64
+		{CCDB502F-E2B2-44AB-A6AE-6DCFCED61D0A}.Release|x64.Build.0 = Release|x64
+		{CCDB502F-E2B2-44AB-A6AE-6DCFCED61D0A}.Release|x86.ActiveCfg = Release|Win32
+		{CCDB502F-E2B2-44AB-A6AE-6DCFCED61D0A}.Release|x86.Build.0 = Release|Win32
+		{B0F1DC29-72E9-47B1-BCB6-E102F4D0D535}.Debug|x64.ActiveCfg = Debug|x64
+		{B0F1DC29-72E9-47B1-BCB6-E102F4D0D535}.Debug|x64.Build.0 = Debug|x64
+		{B0F1DC29-72E9-47B1-BCB6-E102F4D0D535}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0F1DC29-72E9-47B1-BCB6-E102F4D0D535}.Debug|x86.Build.0 = Debug|Win32
+		{B0F1DC29-72E9-47B1-BCB6-E102F4D0D535}.Release|x64.ActiveCfg = Release|x64
+		{B0F1DC29-72E9-47B1-BCB6-E102F4D0D535}.Release|x64.Build.0 = Release|x64
+		{B0F1DC29-72E9-47B1-BCB6-E102F4D0D535}.Release|x86.ActiveCfg = Release|Win32
+		{B0F1DC29-72E9-47B1-BCB6-E102F4D0D535}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24426F04-B77C-45FE-B461-31336D7E8282}
+	EndGlobalSection
+EndGlobal
